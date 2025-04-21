@@ -1,9 +1,6 @@
 # CODTECH-TASK-2
 RESTFUL API DEVELOPMENT
 
-Certainly! Here's the `README.md` file for your **RESTful API Development** project, formatted in the same style as your portfolio project README:
-
-```markdown
 # CODTECH-SDE-TASK-2
 
 ## 🛠️ RESTFUL API DEVELOPMENT
